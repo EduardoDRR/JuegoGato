@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Silkscreen', 'cursive';
+  margin: 20px;
+  background-color: black;
+    color: #ffeb13;
+    text-align: center;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
